@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-16T23:35:09 IST" name="Suite" finished-at="2023-07-16T23:35:17 IST" duration-ms="7679">
+    <groups>
+    </groups>
+    <test started-at="2023-07-16T23:35:09 IST" name="Test1" finished-at="2023-07-16T23:35:17 IST" duration-ms="7679">
+      <class name="Day3.ForgotPassword">
+        <test-method signature="VarifywithMail()[pri:0, instance:Day3.ForgotPassword@7a220c9a]" started-at="2023-07-16T23:35:17 IST" name="VarifywithMail" finished-at="2023-07-16T23:35:17 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VarifywithMail -->
+        <test-method signature="VarifywithPhone()[pri:0, instance:Day3.ForgotPassword@7a220c9a]" started-at="2023-07-16T23:35:17 IST" name="VarifywithPhone" finished-at="2023-07-16T23:35:17 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VarifywithPhone -->
+      </class> <!-- Day3.ForgotPassword -->
+      <class name="Day1.Registration">
+        <test-method signature="register1()[pri:0, instance:Day1.Registration@46b61c56]" started-at="2023-07-16T23:35:09 IST" name="register1" finished-at="2023-07-16T23:35:17 IST" duration-ms="7333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register1 -->
+        <test-method signature="register2()[pri:0, instance:Day1.Registration@46b61c56]" started-at="2023-07-16T23:35:17 IST" name="register2" finished-at="2023-07-16T23:35:17 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register2 -->
+      </class> <!-- Day1.Registration -->
+      <class name="Day2.Login">
+        <test-method signature="BlankData()[pri:0, instance:Day2.Login@68702e03]" started-at="2023-07-16T23:35:17 IST" name="BlankData" finished-at="2023-07-16T23:35:17 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlankData -->
+        <test-method signature="InvalidData()[pri:0, instance:Day2.Login@68702e03]" started-at="2023-07-16T23:35:17 IST" name="InvalidData" finished-at="2023-07-16T23:35:17 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidData -->
+        <test-method signature="ValidData()[pri:0, instance:Day2.Login@68702e03]" started-at="2023-07-16T23:35:17 IST" name="ValidData" finished-at="2023-07-16T23:35:17 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData -->
+      </class> <!-- Day2.Login -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
